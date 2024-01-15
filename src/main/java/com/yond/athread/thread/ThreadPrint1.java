@@ -1,4 +1,4 @@
-package com.yond.athread;
+package com.yond.athread.thread;
 
 import java.lang.management.ManagementFactory;
 import java.lang.management.ThreadInfo;

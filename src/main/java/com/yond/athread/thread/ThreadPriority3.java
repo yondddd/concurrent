@@ -1,4 +1,4 @@
-package com.yond.athread;
+package com.yond.athread.thread;
 
 public class ThreadPriority3 {
 
